@@ -30,7 +30,7 @@ apply plugin: 'kotlinx-serialization'
 android {
     namespace 'com.chunkytofustudios.native_geofence'
 
-    compileSdk 34
+    compileSdk 35
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
